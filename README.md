@@ -19,3 +19,9 @@ Day-2
      8. Math Functions in PHP (mathFunctions.php)
      9. String Functioins in PHP (Strings.php)
      10. Function in PHP (Functions.php)
+ 
+Day-3
+
+     1. For Loop program using Table Tag (forLoopTableTag.php)
+     2. Registration Form Using PHP (Registration.php & process.php)
+     3. Students Marks Entry Form Using PHP (Marks.php & result.php)
