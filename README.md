@@ -25,3 +25,8 @@ Day-3
      1. For Loop program using Table Tag (forLoopTableTag.php)
      2. Registration Form Using PHP (Registration.php & process.php)
      3. Students Marks Entry Form Using PHP (Marks.php & result.php)
+
+Day-4
+
+     1. PHP Template Integration
+     2. Create Home Page for Book Store
