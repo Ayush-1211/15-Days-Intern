@@ -30,3 +30,10 @@ Day-4
 
      1. PHP Template Integration
      2. Create Home Page for Book Store
+
+Day-5
+     
+     1. Create PHOTOS Page
+          - Add Some Book Store Photos
+     2. Creare CONTACT Page
+          - Add Contact Form 
