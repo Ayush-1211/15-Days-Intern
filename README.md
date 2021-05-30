@@ -37,3 +37,8 @@ Day-5
           - Add Some Book Store Photos
      2. Creare CONTACT Page
           - Add Contact Form 
+          
+Day-6
+     
+     1. Create Purchase Page
+     2. Add some Cards and details about Books in Purchase Page
