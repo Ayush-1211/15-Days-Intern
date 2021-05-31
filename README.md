@@ -42,3 +42,10 @@ Day-6
      
      1. Create Purchase Page
      2. Add some Cards and details about Books in Purchase Page
+     
+Day-7
+
+     1. Numerical Array, Index Dynamic Array (Array1.php)
+     2. Assosiative Array (Array2.php)
+     3. Array Functions (ArrayFunctions.php)
+          - Total 30 Functions
