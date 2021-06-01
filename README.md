@@ -9,7 +9,7 @@ Day-1
 
 Day-2
 
-     1. Welcome to PHP (Demo.php)
+     1. Welcome to PHP Program (Demo.php)
      2. Variables in PHP (variables.php)
      3. if...else in PHP (ifElse.php)
      4. Switch case in PHP (switch.php)
