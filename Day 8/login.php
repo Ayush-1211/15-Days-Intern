@@ -34,10 +34,10 @@
                     <form action="#">
 
                         <label for="fname">Username</label>
-                        <input type="text" id="uname" name="username" placeholder="Enter Username">
+                        <input type="text" id="uname" name="username" placeholder="Enter Username" required>
                         </br></br>
                         <label for="lname">Password</label>
-                        <input type="password" id="pass" name="password" placeholder="Enter Your Password">
+                        <input type="password" id="pass" name="password" placeholder="Enter Your Password" required>
                         </br></br>
                         <a href="registration.php">Have not Registered yet?</a>
                         <br><br>
