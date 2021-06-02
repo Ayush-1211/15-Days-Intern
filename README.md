@@ -57,3 +57,9 @@ Day-8
      3. Create action page for Registration (reg_action.php)
      4. Create Database Connection Page (connection.php)
      5. Create Database (user_registration.sql)
+     
+Day-9
+
+     1. Add HTML validation in Login and Registration Page
+     2. Add ALERT message in Login and Registration Page
+     3. Create action page for Login (log_action.php)
