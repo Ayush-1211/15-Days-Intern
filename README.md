@@ -49,3 +49,11 @@ Day-7
      2. Assosiative Array (Array2.php)
      3. Array Functions (ArrayFunctions.php)
           - Total 30 Functions
+          
+Day-8
+
+     1. Create Login Page (login.php)
+     2. Create Registration Page and add this link into Login Page (registration.php)
+     3. Create action page for Registration (reg_action.php)
+     4. Create Database Connection Page (connection.php)
+     5. Create Database (user_registration.sql)
