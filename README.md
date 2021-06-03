@@ -63,3 +63,9 @@ Day-9
      1. Add HTML validation in Login and Registration Page
      2. Add ALERT message in Login and Registration Page
      3. Create action page for Login (log_action.php)
+     
+Day-10
+     
+     1. PHP Theme Integration
+     2. Create Admin Panel Pages
+     3. Add CRUD Operation
