@@ -69,3 +69,7 @@ Day-10
      1. PHP Theme Integration
      2. Create Admin Panel Pages
      3. Add CRUD Operation
+
+Day-11
+
+     1. Create Ecommerce Project in Wordpress
