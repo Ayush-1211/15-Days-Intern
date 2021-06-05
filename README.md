@@ -73,3 +73,12 @@ Day-10
 Day-11
 
      1. Create Ecommerce Project in Wordpress
+     2. Create Database for Website (ecommerce.sql)
+     
+Day-12
+
+     1. Create Gallery Page
+          - Add Lightbox Plugin (Simple Lightbox)
+     2. Create Contact Us Page
+          - Add Contact Form Plugin (Contact Form 7)
+     3. Add Slider Plugin in Home Page (Smart Slider 3)
