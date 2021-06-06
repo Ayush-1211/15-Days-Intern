@@ -82,3 +82,8 @@ Day-12
      2. Create Contact Us Page
           - Add Contact Form Plugin (Contact Form 7)
      3. Add Slider Plugin in Home Page (Smart Slider 3)
+     
+Day-13
+
+     1. Create Blog Website using Wordpress
+     2. Create Database for Website (myblog.sql)
