@@ -86,4 +86,4 @@ Day-12
 Day-13
 
      1. Create Blog Website using Wordpress
-     2. Create Database for Website (myblog.sql)
+     2. Create Database for Website
