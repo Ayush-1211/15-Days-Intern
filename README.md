@@ -1,5 +1,5 @@
 # 15-Days-Intern
-Akash Technolab 15-Days Internship as a PHP Developer
+Akash Technolab 15-Days Internship as a PHP MySQL Developer
 
 Day-1 
 
